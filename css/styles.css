@@ -68,15 +68,9 @@ body{
         line-height: 1.5;
         letter-spacing: 0.02em;
         color:#434455;
-        
+        display:flex;
             }
-    .address-list .link{
-        margin-right: 40px;
-        display: flex;
-    }
-    .address-list .link:last-child{
-        margin-right: 0;
-    }
+    
     .address-list:hover{
         color:#404bbf;
     }
