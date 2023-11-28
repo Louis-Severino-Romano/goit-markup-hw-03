@@ -149,6 +149,9 @@ body{
         color:#FFFFFF;
         background-color: #404BBF;
     }
+    .display{
+        display: block;
+    }
     
     
 
