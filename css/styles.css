@@ -164,7 +164,7 @@ body{
     .header{
         border:1px solid #e7e9fc;
     }
-    .header>.container{
+    .container{
        display: flex;
        width: 1158px;
        margin: 0 auto;
