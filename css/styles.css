@@ -28,8 +28,6 @@ body{
 .link{
     text-decoration: none;
 }
-
-
 .span{
     color:#2e2f42;
    
@@ -42,19 +40,17 @@ body{
 .list:last-child{
     margin-right: 0;
 }
-.nav-link-list .link{
+.nav-link-list{
     font-weight: 500;
     font-size: 16px;
     color:var(--grey);
     
     line-height: 1.5;
     letter-spacing: 0.02em;
-    padding: 24px 0 24px;
-    margin-right: 40px;
+    /* padding: 24px 0 24px;
+    margin-right: 40px; */
     }
-    .nav-link-list .link:last-child{
-    margin-right: 0;
-    } 
+   
    .nav-link-list:hover{
     color:#404bbf;
    }
@@ -68,7 +64,10 @@ body{
         line-height: 1.5;
         letter-spacing: 0.02em;
         color:#434455;
-                }
+    }
+    .display-address{
+        display: flex;
+    }
     
     .address-list:hover{
         color:#404bbf;
