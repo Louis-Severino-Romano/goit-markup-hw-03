@@ -187,6 +187,8 @@ body{
         padding:120px 0;
     }
     .list-two{
+        list-style: none;
+        display: flex;
         gap:24px;
     }
     .visually-hidden {
