@@ -181,7 +181,14 @@ body{
         display: flex;
         align-items:center ;
     }
-    
+    .sectiontwo{
+        padding:120px 0;
+    }
+    .is-hidden {
+        visibility: hidden;
+        pointer-events: none;
+        position: absolute;
+      }
 
     
     
