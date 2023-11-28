@@ -152,7 +152,23 @@ body{
     .display{
         display: block;
     }
-    
+    .header{
+        border:1px solid #e7e9fc;
+    }
+    .div-header{
+        display: flex;
+       
+       
+    }
+    .container{
+       width: 1158px; 
+       margin: 0 auto;
+       padding: 0 15px 0 15px;
+    }
+    .nav{
+        display: flex;
+        align-items:center ;
+    }
     
 
     
