@@ -50,9 +50,10 @@ body{
     line-height: 1.5;
     letter-spacing: 0.02em;
     padding: 24px 0 24px;
+    margin-right: 40px;
     }
-    /* .nav-link-list:last-child{
-    margin-right: 0; */
+    .nav-link-list:last-child{
+    margin-right: 0;
     } 
    .nav-link-list:hover{
     color:#404bbf;
