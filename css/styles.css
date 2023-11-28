@@ -39,8 +39,8 @@ body{
     display: flex;
     margin-right: 40px;
 }
-/* .list:last-child{
-    margin-right: 0; */
+.list:last-child{
+    margin-right: 0;
 }
 .nav-link-list .link{
     font-weight: 500;
@@ -70,6 +70,13 @@ body{
         color:#434455;
         
             }
+    .address-list .link{
+        margin-right: 40px;
+        display: flex;
+    }
+    .address-list .link:last-child{
+        margin-right: 0;
+    }
     .address-list:hover{
         color:#404bbf;
     }
