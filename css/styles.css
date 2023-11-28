@@ -37,7 +37,7 @@ body{
 .list{
     list-style: none;
     display: flex;
-    
+    margin-right: 40px;
 }
 .nav-link-list{
     font-weight: 500;
@@ -46,7 +46,7 @@ body{
     
     line-height: 1.5;
     letter-spacing: 0.02em;
-    margin-right: 40px;
+    
     }
     .nav-link-list:last-child{
     margin-right: 0;
