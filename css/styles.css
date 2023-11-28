@@ -47,8 +47,8 @@ body{
     
     line-height: 1.5;
     letter-spacing: 0.02em;
-    /* padding: 24px 0 24px;
-    margin-right: 40px; */
+    padding: 24px 0 24px;
+    
     }
    
    .nav-link-list:hover{
