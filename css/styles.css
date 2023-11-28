@@ -184,7 +184,7 @@ body{
     .sectiontwo{
         padding:120px 0;
     }
-    .is-hidden {
+    .visually-hidden {
         visibility: hidden;
         pointer-events: none;
         position: absolute;
