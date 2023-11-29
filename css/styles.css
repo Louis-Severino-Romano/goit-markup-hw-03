@@ -208,7 +208,7 @@ body{
       }
       .list-item-a{
         flex-basis: calc((100% - 72px)/4);
-        
+        margin-right: 24px;
       }
 
     
