@@ -176,7 +176,7 @@ body{
        display: flex;
        width: 1158px;
        margin: 0 auto;
-       padding: 0 15px 0 15px;
+       padding: 0 15px ;
     }
    
     .nav{
@@ -206,7 +206,7 @@ body{
         outline: 0;
         outline-offset: 0;
       }
-      .list-item-a{
+      .list-item{
         flex-basis: calc((100% - 72px)/4);
         margin-right: 24px;
       }
