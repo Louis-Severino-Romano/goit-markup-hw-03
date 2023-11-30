@@ -22,9 +22,11 @@ body{
    letter-spacing: 0.03em;
    text-transform: uppercase;
    color:var(--blue);
-    margin-right: 76px;
+   margin-right: 76px;
 }
-
+.headcon{
+    display: flex;
+}
 .link{
     text-decoration: none;
 }
