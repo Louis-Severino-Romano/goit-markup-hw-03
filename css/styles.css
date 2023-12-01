@@ -214,7 +214,7 @@ body{
         outline-offset: 0;
       }
     .list-item{
-        width: calc((100% - 72px) / 4); 
+       width:271.5px;
         margin-right: 24px;   
         margin-bottom: 8px;
     }
