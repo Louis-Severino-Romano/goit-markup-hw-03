@@ -136,7 +136,7 @@ body{
         line-height: 1.5;
         letter-spacing: 0.02em;
         color:var(--parcolor);
-
+        text-align: center;
     }
     .section-c-head{
         font-size: 36px;
