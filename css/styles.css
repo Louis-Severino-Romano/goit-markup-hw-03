@@ -161,6 +161,7 @@ body{
     }
     .foter{
         background-color: var(--grey);
+        padding: 100px 0;
     }
     .span-foter{
         color:#f4f4fd;
@@ -240,5 +241,8 @@ body{
     }
     .section-d-item{
         padding: 32px 0;
+    }
+    .footer-link{
+        display: inline-block;
     }
     
