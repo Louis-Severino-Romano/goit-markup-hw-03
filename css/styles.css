@@ -224,7 +224,7 @@ body{
     }
     .list-item:last-child{
         width: calc((100% - 72px) / 4);
-        margin-right: 0;
+        
     }
     .section-c{
         padding: 120px;
