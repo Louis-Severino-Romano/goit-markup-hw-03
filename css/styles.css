@@ -7,6 +7,11 @@
     --fotcolor:#F4F4FD;
     
 }
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
 body{
 
     font-family:'Roboto', sans-serif;
@@ -195,7 +200,7 @@ body{
     .listabout{
         list-style: none;
         display: flex;
-        /* gap:24px; */
+        gap:24px;
         
     }
     .visually-hidden {
@@ -218,6 +223,7 @@ body{
         
     }
     .list-item:last-child{
+        width: calc((100% - 72px) / 4);
         margin-right: 0;
     }
     .section-c{
