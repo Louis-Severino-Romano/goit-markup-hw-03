@@ -247,4 +247,7 @@ body{
         display: inline-block;
         margin-bottom: 16px;
     }
+    .section-p{
+        padding-top: 96px;
+    }
     
