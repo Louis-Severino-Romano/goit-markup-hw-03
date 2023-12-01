@@ -220,12 +220,9 @@ body{
       }
     .list-item{
         margin-right: 24px;   
-        
-    }
-    .list-item:last-child{
         width: calc((100% - 72px) / 4);
-        
     }
+    
     .section-c{
         padding: 120px;
     }
