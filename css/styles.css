@@ -195,7 +195,7 @@ body{
     .listabout{
         list-style: none;
         display: flex;
-        gap:24px;
+        /* gap:24px; */
         
     }
     .visually-hidden {
@@ -214,9 +214,8 @@ body{
         outline-offset: 0;
       }
     .list-item{
-       width:271.5px;
         margin-right: 24px;   
-        margin-bottom: 8px;
+        
     }
     .list-item:last-child{
         margin-right: 0;
