@@ -179,6 +179,7 @@ body{
     }
     .display{
         display: block;
+        
     }
     .header{
         border:1px solid #e7e9fc;
@@ -226,3 +227,7 @@ body{
     .section-c{
         padding: 120px;
     }
+    .section-c-item{
+        width:  calc((100% - 48px) / 3);
+    }
+    
