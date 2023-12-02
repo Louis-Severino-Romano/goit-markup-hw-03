@@ -31,6 +31,7 @@ body{
 }
 .headcon{
     display: flex;
+    justify-content: space-between;
 }
 .link{
     text-decoration: none;
@@ -70,17 +71,14 @@ body{
         letter-spacing: 0.02em;
         color:#434455;
     }
-    .display-address{
-        display: flex;
-    }
-    
+        
     .address-list:hover{
         color:#404bbf;
     }
     .address-list:focus{
         color: #404bbf;
     }
-    .section{
+    .sectionone{
         background-color: var(--secbgcolor);
         padding:188px 0;
     }
@@ -91,6 +89,7 @@ body{
         letter-spacing: 0.02em;
         color: #FFFFFF;
         max-width: 496px;
+        margin: 0 auto 48px;
     }
     .button{
         background-color: #4D5AE5;
@@ -106,6 +105,7 @@ body{
         height: 56px;
         border: none;
         border-radius: 4px;
+        margin: 0 auto;
     }
     .pbutton{
         font-family: 'Roboto',sans-serif;
@@ -134,14 +134,14 @@ body{
         letter-spacing: 0.02em;
         color:var(--secbgcolor);
         margin-bottom: 8px;
-
+        text-align: left;
     }
     .section-par{
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color:var(--parcolor);
-        text-align: center;
+        text-align: left;
     }
     .section-c-head{
         font-size: 36px;
@@ -202,9 +202,10 @@ body{
        padding: 0 15px ;
     }
    
-    .nav{
+    .nav ,.address{
         display: flex;
         align-items:center ;
+
     }
     .sectiontwo{
         padding:120px 0;
