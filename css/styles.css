@@ -137,12 +137,12 @@ body{
         text-align: left;
     }
     .section-par{
-        /* font-size: 16px;
+        font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
         color:var(--parcolor);
-        text-align: left; */
-        text-align: center;
+        text-align: left;
+        text-transform: capitalize;
     }
     .section-c-head{
         font-size: 36px;
