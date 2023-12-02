@@ -34,6 +34,7 @@ body{
 }
 .link{
     text-decoration: none;
+    text-transform: uppercase;
 }
 .span{
     color:#2e2f42;
@@ -253,9 +254,9 @@ body{
     }
     .list-p
     {
-        justify-content: center;
-        gap: 24px;
-        margin-bottom: 72px;
+        list-style: none;
         display: flex;
+        justify-content: center;
+        margin-bottom: 72px;
     }
     
